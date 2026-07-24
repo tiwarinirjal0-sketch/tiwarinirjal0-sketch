@@ -15,7 +15,7 @@
 - 📚 Learning something new every day
 - 🛠️ Building real-world projects
 - 🤝 Open to collaboration
-- ☕ Coffee + Code = Productivity
+
 
 ---
 
